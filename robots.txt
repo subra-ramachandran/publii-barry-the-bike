@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://subra-ramachandran.github.io/publii-barry-the-bike/sitemap.xml

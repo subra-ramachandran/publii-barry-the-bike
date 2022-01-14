@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "barry-the-bike-demo",
+    "description": "",
+    "home_page_url": "https://subra-ramachandran.github.io/publii-barry-the-bike",
+    "feed_url": "https://subra-ramachandran.github.io/publii-barry-the-bike/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Subra"
+    },
+    "items": [
+    ]
+}
