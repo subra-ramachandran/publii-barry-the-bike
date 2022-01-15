@@ -3,10 +3,30 @@
     <title>barry-the-bike-demo</title>
     <link href="https://subra-ramachandran.github.io/publii-barry-the-bike/feed.xml" rel="self" />
     <link href="https://subra-ramachandran.github.io/publii-barry-the-bike" />
-    <updated>1970-01-01T10:00:00+10:00</updated>
+    <updated>2022-01-15T19:32:50+11:00</updated>
     <author>
         <name>Subra</name>
     </author>
     <id>https://subra-ramachandran.github.io/publii-barry-the-bike</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Subra</name>
+        </author>
+        <link href="https://subra-ramachandran.github.io/publii-barry-the-bike/test.html"/>
+        <id>https://subra-ramachandran.github.io/publii-barry-the-bike/test.html</id>
+
+        <updated>2022-01-15T19:32:50+11:00</updated>
+            <summary>
+                <![CDATA[
+                    Test BtBk
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://subra-ramachandran.github.io/publii-barry-the-bike/media/posts/1/BTB-Hardware-Truck_90x67.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://subra-ramachandran.github.io/publii-barry-the-bike/media/posts/1/responsive/BTB-Hardware-Truck_90x67-xs.png 300w ,https://subra-ramachandran.github.io/publii-barry-the-bike/media/posts/1/responsive/BTB-Hardware-Truck_90x67-sm.png 480w ,https://subra-ramachandran.github.io/publii-barry-the-bike/media/posts/1/responsive/BTB-Hardware-Truck_90x67-md.png 768w ,https://subra-ramachandran.github.io/publii-barry-the-bike/media/posts/1/responsive/BTB-Hardware-Truck_90x67-lg.png 1024w ,https://subra-ramachandran.github.io/publii-barry-the-bike/media/posts/1/responsive/BTB-Hardware-Truck_90x67-xl.png 1360w ,https://subra-ramachandran.github.io/publii-barry-the-bike/media/posts/1/responsive/BTB-Hardware-Truck_90x67-2xl.png 1600w"  alt="Truck" width="90" height="67"></figure>Test BtBk</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
